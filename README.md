@@ -1,3 +1,3 @@
 # Get To Know Me!
-Karel Rala
-Bl. Miguel Agustin de Pro
+Karel D. Rala 9 - Pro
+
