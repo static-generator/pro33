@@ -1,1 +1,2 @@
-# pro33
+theme: jekyll-theme-midnight
+title: "Static Site Generator"
